@@ -5,10 +5,7 @@
     <h1 align="center">Hi 👋, I'm Sarah</h1>
     <h3 align="center">A passionate frontend developer</h3>
 
-    <div id="badges">
-  <a href="[link to your LinkedIn profile]">
-    <img src="https://jo.linkedin.com/in/sarah-a-a68318143?trk" alt="LinkedIn Badge"/>
-  </a>
+   
 
 </div>
 div id="bio">
