@@ -6,7 +6,6 @@
     <h3 align="center">A passionate frontend developer</h3>
 
 
-div id="bio">
   <h2>About Me</h2>
   <ul>
     <li>I'm passionate about programming </li>
