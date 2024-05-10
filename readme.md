@@ -5,9 +5,7 @@
     <h1 align="center">Hi 👋, I'm Sarah</h1>
     <h3 align="center">A passionate frontend developer</h3>
 
-   
 
-</div>
 div id="bio">
   <h2>About Me</h2>
   <ul>
@@ -18,7 +16,6 @@ div id="bio">
 </div>
 <div id="stats">
   <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=sarahkh9&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwkh9&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
