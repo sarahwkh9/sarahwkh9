@@ -10,7 +10,7 @@
   <ul>
     <li>I'm passionate about programming </li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in programming space.</li>
-    <li>Focusing on learning Javascript right now.</li>
+
   </ul>
 </div>
 <div id="stats">
@@ -21,6 +21,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
     <img src="https://www.pngitem.com/pimgs/m/681-6810582_javascript-logo-svg-hd-png-download.png" title="js" width="40" height="40"/>
+          <img src="https://vectorified.com/images/react-js-icon-33.jpg title="React" alt="Py" width="40" height="40"/>
   <div>
 
 
