@@ -28,11 +28,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"  height="40" alt="Power BI"   />
+</div> 
 </div>
 
 
    <div align="left">
-  ## 🚀 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwkh9&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,8 +43,6 @@
 </div>
 
 </body>
-
-
 
 
 
