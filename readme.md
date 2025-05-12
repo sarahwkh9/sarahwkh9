@@ -3,7 +3,7 @@
 
 <body>
     <h1 align="center">Hi 👋, I'm Sarah</h1>
-    <h3 align="center">A passionate junior frontend developer</h3>
+    <h3 align="center">A passionate Web developer</h3>
 
 
   <h2>About Me</h2>
