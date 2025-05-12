@@ -32,7 +32,14 @@
 
 
    <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaraaAJameha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  ## 🚀 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwkh9&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 </div>
 
 </body>
