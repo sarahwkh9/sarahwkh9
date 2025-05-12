@@ -14,16 +14,21 @@
   </ul>
 </div>
 <div id="stats">
-  <h2>Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwkh9&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <h3 align="left"> 🚀I code with : </h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-    <img src="https://www.pngitem.com/pimgs/m/681-6810582_javascript-logo-svg-hd-png-download.png" title="js" width="40" height="40"/>
-          <img src="https://vectorified.com/images/react-js-icon-33.jpg title="React" alt="Py" width="40" height="40"/>
-  <div>
-
+   
 
 </body>
 
