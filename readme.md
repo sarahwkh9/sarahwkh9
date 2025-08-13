@@ -5,7 +5,7 @@
 
 ## 📌 About Me
 
-'m a **Frontend Developer** and **Data Analyst** who loves combining code and data to build powerful, user-friendly applications.
+I'm a **Frontend Developer** and **Data Analyst** who loves combining code and data to build powerful, user-friendly applications.
 
 - 💡 Passionate about creating dynamic interfaces using **React** and modern web tools.
 - 📊 Skilled at extracting insights from data using **Python**, **Power BI**, and **MySQL**.
