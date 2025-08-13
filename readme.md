@@ -5,9 +5,12 @@
 
 ## 📌 About Me
 
-- 💻 I'm passionate about programming.  
-- 🚀 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.  
-- 🎯 I'm currently seeking new opportunities to apply my knowledge and expertise in the programming space.
+'m a **Frontend Developer** and **Data Analyst** who loves combining code and data to build powerful, user-friendly applications.
+
+- 💡 Passionate about creating dynamic interfaces using **React** and modern web tools.
+- 📊 Skilled at extracting insights from data using **Python**, **Power BI**, and **MySQL**.
+- 🚀 Always learning and exploring new technologies in both development and data analysis.
+- 🎯 Currently open to new opportunities in both frontend development and data-driven projects.
 
 ---
 
